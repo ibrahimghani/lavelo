@@ -46,6 +46,6 @@
 	</main>
 <footer>
 		<p>&copy; 2023 Lavelo</p>
-        <a href="home.php">Back to Homepage</a> </footer>
+        <a href="index.php">Back to Homepage</a> </footer>
 </body>
 </html>
