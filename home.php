@@ -1,0 +1,77 @@
+<html>
+<head>
+	<title>My Website</title>
+  <link rel="stylesheet" href="style.css">
+  <style type="text/css">
+<!--
+.style1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: xx-large;
+	color: #9900CC;
+	font-weight: bold;
+}
+-->
+  </style>
+</head>
+<body>
+
+<header>
+	
+  <h1 class="style1" style="text-align: center;">Lavelo</h1>
+</header>
+	
+<main>
+      <div align="center"><img src="logo.jpg" width="150" height="150" >
+      </div>
+      <p style="font-style: italic;text-align: center;">Make your home a reflection of you!</p>
+<h4 align="center">Vision Statement</h4>
+<p> To create beautiful and functional spaces that inspire and enrich the lives of our clients, while fostering creativity and innovation in the field of interior design.</p>
+      <p>      </p>
+      <h4 align="center">Mission Statement</h4>
+      <p> At Levelo, we are committed to providing our clients with exceptional interior design services that are tailored to their unique needs and preferences. We strive to create spaces that are not only aesthetically pleasing, but also functional, sustainable, and reflective of our clients' personalities and lifestyles. Our team of experienced designers and craftsmen work collaboratively to bring our clients' vision to life, using only the highest quality materials and techniques. We are dedicated to staying at the forefront of design trends and technologies, while maintaining a strong focus on customer satisfaction and community engagement.</p>
+
+  
+  <nav>
+		<ul>
+			  <li>
+			    <div align="left"><a href="about.php">About Us</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="product.php">Products</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="service.php">Services</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="portfolio.php">Portfolio</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="get.php">Get in Touch</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="price.php">Pricing</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="image.php">Gallery Images</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="reviews.php">Reviews</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="FAQ.php">FAQ</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="how.php">How it works</a></div>
+			  </li>
+			  <li>
+			    <div align="left"><a href="register.php">Register Now</a></div>
+			  </li>
+    </ul>
+  </nav>
+</main>
+	
+	<footer>
+		<p align="right">&copy; <?php echo date("Y"); ?> Lavelo</p>
+	</footer>
+</body>
+</html>
